@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Dönüştürücü</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        #videoInput {
+            display: none;
+            /* Dosya girişini gizle */
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Video Dönüştürücü</h1>
+    <button id="videoSelectBtn">Video Seç</button>
+    <input type="file" id="videoInput" accept="video/*">
+    <button id="convertButton">Dönüştür</button>
+    <div id="statusMessage"></div>
+
+    <script src="renderer.js"></script>
+</body>
+
+</html>

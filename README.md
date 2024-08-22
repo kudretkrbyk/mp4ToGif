@@ -8,3 +8,4 @@ Bu uygulama mp4 uzantılı videoları 30 saniye olacak şekilde böler ve 30 san
 
 ![Demo GIF](https://github.com/kudretkrbyk/mp4ToGif/blob/main/output/output000.gif)
 ![Demo GIF](https://github.com/kudretkrbyk/mp4ToGif/blob/main/output/output001.gif)
+![Demo GIF](https://github.com/kudretkrbyk/mp4ToGif/blob/main/output/output002.gif)
